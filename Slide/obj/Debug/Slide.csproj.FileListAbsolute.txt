@@ -1,0 +1,213 @@
+C:\Users\Live1\source\repos\Slide\Slide\bin\Debug\Slide.exe.config
+C:\Users\Live1\source\repos\Slide\Slide\bin\Debug\Slide.exe
+C:\Users\Live1\source\repos\Slide\Slide\bin\Debug\Slide.pdb
+C:\Users\Live1\source\repos\Slide\Slide\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Live1\source\repos\Slide\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\Live1\source\repos\Slide\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\Live1\source\repos\Slide\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\Live1\source\repos\Slide\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\Live1\source\repos\Slide\Slide\obj\Debug\Slide.exe
+C:\Users\Live1\source\repos\Slide\Slide\obj\Debug\Slide.pdb
+C:\Users\Live1\source\repos\Slide\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\Live1\source\repos\Slide\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\Live1\source\repos\Slide\Slide\bin\Debug\MetroFramework.dll
+C:\Users\Live1\source\repos\Slide\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Live1\source\repos\Slide\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\Live1\source\repos\Slide\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\ENDRI\Desktop\Slide\Slide\bin\Debug\Slide.exe.config
+C:\Users\ENDRI\Desktop\Slide\Slide\bin\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\Slide\Slide\bin\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\Slide\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\ENDRI\Desktop\Slide\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\ENDRI\Desktop\Slide\Slide\bin\Debug\MetroFramework.dll
+C:\Users\ENDRI\Desktop\Slide\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ENDRI\Desktop\Slide\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\ENDRI\Desktop\Slide\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\ENDRI\Desktop\Slide\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\ENDRI\Desktop\Slide\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\ENDRI\Desktop\Slide\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\ENDRI\Desktop\Slide\Slide\obj\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\Slide\Slide\obj\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\Slide\Slide\bin\Debug\aforge.video.dll
+C:\Users\ENDRI\Desktop\Slide\Slide\obj\Debug\Slide.Form3.resources
+C:\Users\ENDRI\Desktop\Slide\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\ENDRI\Desktop\Slide\Slide\bin\Debug\OzekiSDK.dll
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\bin\Debug\Slide.exe.config
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\bin\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\bin\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\bin\Debug\MetroFramework.dll
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\bin\Debug\OzekiSDK.dll
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.Form3.resources
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.Recordings.resources
+C:\Users\ENDRI\Desktop\Tema e Diplomes\Slide\obj\Debug\Slide.Snapshots.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\Slide.exe.config
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\Slide.exe
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\Slide.pdb
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\MetroFramework.dll
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Recordings.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Snapshots.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.exe
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.pdb
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.LiveView.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.UserManager.resources
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\Slide.exe.config
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\MetroFramework.dll
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.LiveView.resources
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Recordings.resources
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.Snapshots.resources
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.UserManager.resources
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\Programi\Tema e Diplomes\Slide\obj\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\Slide.exe.config
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MetroFramework.dll
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.LiveView.resources
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Recordings.resources
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Snapshots.resources
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.UserManager.resources
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.UserManage.resources
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\Slide.exe.config
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\Slide.exe
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\Slide.pdb
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MetroFramework.dll
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.LiveView.resources
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Recordings.resources
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Snapshots.resources
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.UserManage.resources
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.UserManager.resources
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.exe
+C:\Users\ilda.fishti\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.pdb
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\Slide.exe.config
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\Slide.exe
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\Slide.pdb
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MetroFramework.dll
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.LiveView.resources
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Recordings.resources
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.Snapshots.resources
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.UserManage.resources
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.UserManager.resources
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.exe
+C:\Users\gerild.qordja\Desktop\DIPLOMA\Tema e Diplomes\Slide\obj\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\bin\Debug\Slide.exe.config
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\bin\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\bin\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\bin\Debug\MetroFramework.dll
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.LiveView.resources
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.Recordings.resources
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.Snapshots.resources
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.UserManage.resources
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.UserManager.resources
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\DIPLOMA1\Tema e Diplomes\Slide\obj\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\Slide.exe.config
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\Slide.pdb
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\MetroFramework.dll
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.csprojResolveAssemblyReference.cache
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.LiveView.resources
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Recordings.resources
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Snapshots.resources
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.UserManage.resources
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.UserManager.resources
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.GenerateResource.Cache
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.CoreCompileInputs.cache
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.exe
+C:\Users\ENDRI\Desktop\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.pdb
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\Slide.exe.config
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\Slide.exe
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\Slide.pdb
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\MaterialSkin.dll
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Design.dll
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\MetroFramework.dll
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.csprojAssemblyReference.cache
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Dashboard.resources
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Log_In.resources
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.LiveView.resources
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Properties.Resources.resources
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Recordings.resources
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.Snapshots.resources
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.UserManage.resources
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.UserManager.resources
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.GenerateResource.cache
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.csproj.CopyComplete
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.exe
+C:\Users\PRIMUS SCARAB\Downloads\Compressed\DiplomaGR6\Tema e Diplomes\Slide\obj\Debug\Slide.pdb

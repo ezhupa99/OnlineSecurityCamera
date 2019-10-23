@@ -1,0 +1,8 @@
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Release\Slide.Dashboard.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Release\Slide.Log_In.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Release\Slide.Form3.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Release\Slide.Properties.Resources.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Release\Slide.Recordings.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Release\Slide.Snapshots.resources
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Release\Slide.csproj.GenerateResource.Cache
+C:\Users\Live1\Desktop\Programi\Tema e Diplomes\Slide\obj\Release\Slide.csproj.CoreCompileInputs.cache

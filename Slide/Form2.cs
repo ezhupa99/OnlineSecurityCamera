@@ -62,12 +62,12 @@ namespace Slide
 
         private void bunifuImageButton1_Click(object sender, EventArgs e)
         {
-                leftpanel.Visible = false;
-                rightpanel.Visible = true;
-                Transition1.ShowSync(rightpanel);
-                bunifuMaterialTextbox1.Text = "";
-                bunifuMaterialTextbox2.Text = "";
-                bunifuMaterialTextbox5.Text = "";
+            leftpanel.Visible = false;
+            rightpanel.Visible = true;
+            Transition1.ShowSync(rightpanel);
+            bunifuMaterialTextbox1.Text = "";
+            bunifuMaterialTextbox2.Text = "";
+            bunifuMaterialTextbox5.Text = "";
         }
 
         private void bunifuImageButton2_Click(object sender, EventArgs e)
@@ -82,33 +82,35 @@ namespace Slide
             string query = "SELECT * FROM Users where Username = '" + bunifuMaterialTextbox4.Text + "' AND Password = '" + bunifuMaterialTextbox3.Text + "'";
             try
             {
-                SqlConnection conn = new SqlConnection(connectionString);
-                SqlCommand cmd = new SqlCommand(query, conn);
-                conn.Open();
-                cmd.ExecuteNonQuery();
-                DataTable dt = new DataTable();
-                SqlDataAdapter da = new SqlDataAdapter(cmd);
-                da.Fill(dt);
-                if (dt.Rows.Count == 1)
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                using (SqlCommand cmd = new SqlCommand(query, conn))
                 {
-                    GlobalClass.VariableName = dt.Rows[0][3].ToString();
-                    if(GlobalClass.VariableName == "A")
+                    conn.Open();
+
+                    using (SqlDataReader reader = cmd.ExecuteReader())
                     {
-                        Dashboard f2 = new Dashboard();
-                        f2.ShowDialog();
-                        this.Hide();
-                        GlobalClass.VariableName = "A";
+                        while (reader.Read())
+                        {
+                            GlobalClass.VariableName = reader["UserType"].ToString();
+                        }
                     }
-                    else if (GlobalClass.VariableName == "U")
-                    {
-                        Dashboard f2 = new Dashboard();
-                        f2.bunifuFlatButton2.Enabled = false;
-                        f2.bunifuFlatButton3.Enabled = false;
-                        f2.bunifuFlatButton4.Enabled = false;
-                        f2.ShowDialog();
-                        this.Hide();
-                        GlobalClass.VariableName = "U";
-                    }
+                }
+                if (GlobalClass.VariableName == "A")
+                {
+                    Dashboard f2 = new Dashboard();
+                    f2.ShowDialog();
+                    this.Hide();
+                    GlobalClass.VariableName = "A";
+                }
+                else if (GlobalClass.VariableName == "U")
+                {
+                    Dashboard f2 = new Dashboard();
+                    f2.bunifuFlatButton2.Enabled = false;
+                    f2.bunifuFlatButton3.Enabled = false;
+                    f2.bunifuFlatButton4.Enabled = false;
+                    f2.ShowDialog();
+                    this.Hide();
+                    GlobalClass.VariableName = "U";
                 }
                 else
                 {
@@ -123,7 +125,7 @@ namespace Slide
 
         private void bunifuFlatButton1_Click(object sender, EventArgs e)
         {
-            if (bunifuMaterialTextbox1.Text == ""  && bunifuMaterialTextbox5.Text == "")
+            if (bunifuMaterialTextbox1.Text == "" && bunifuMaterialTextbox5.Text == "")
             {
                 MessageBox.Show("Please enter datas");
             }
